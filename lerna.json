@@ -3,7 +3,7 @@
   "version": "1.0.10",
   "command": {
     "publish": {
-      "registry": "http://maven.17zjh.com/repository/group-npm/"
+      "registry": "https://registry.npmjs.org/"
     }
   }
 }
