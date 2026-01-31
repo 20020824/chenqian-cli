@@ -22,5 +22,5 @@
   "publishConfig": {
     "registry": "http://maven.17zjh.com/repository/group-npm/"
   },
-  "gitHead": "823119141f462ba5beda4c95fc9043fd71840f06"
+  "gitHead": "e4ccfa62dc6c3ae5e9e67669df903da12892d402"
 }
