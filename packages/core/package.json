@@ -1,6 +1,6 @@
 {
   "name": "@chenqian-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "chenqian cli",
   "homepage": "",
   "license": "ISC",
@@ -22,5 +22,5 @@
   "publishConfig": {
     "registry": "http://maven.17zjh.com/repository/group-npm/"
   },
-  "gitHead": "1c092257fb4677d768e17177a9e7944d2bb9b85c"
+  "gitHead": "04436365dd7cdc01864ac2ebb8d58ba4376ca1a6"
 }
