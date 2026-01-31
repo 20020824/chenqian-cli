@@ -1,0 +1,8 @@
+46 error Error: Command failed with exit code 128: git tag v1.0.1 -m v1.0.1
+46 error fatal: tag 'v1.0.1' already exists
+46 error     at makeError (/Users/chenqian/Desktop/个人文件/chenqian-cli/chenqian-cli/node_modules/execa/lib/error.js:59:11)
+46 error     at handlePromise (/Users/chenqian/Desktop/个人文件/chenqian-cli/chenqian-cli/node_modules/execa/index.js:114:26)
+46 error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+46 error     at async VersionCommand.gitCommitAndTagVersion (/Users/chenqian/Desktop/个人文件/chenqian-cli/chenqian-cli/node_modules/lerna/dist/index.js:10439:9)
+46 error     at async VersionCommand.commitAndTagUpdates (/Users/chenqian/Desktop/个人文件/chenqian-cli/chenqian-cli/node_modules/lerna/dist/index.js:10404:18)
+46 error     at async Promise.all (index 0)
