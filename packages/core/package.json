@@ -6,6 +6,9 @@
   "license": "ISC",
   "author": "chenqian <chenqian01@wepie.com>",
   "main": "lib/core.js",
+  "bin": {
+    "chenqian-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
